@@ -1,6 +1,6 @@
 # Banking-Managment-System
 
-## This Project writen in ```Python``` and connected to ```Database```, therefore all the credentials which is field by user is all stored in the database.
+## This Project writen in ```Python``` and connected to ```Database```, therefore all the credentials which is field by user is all stored in database.
 
 ### *Main page:-* 
 
